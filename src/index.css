@@ -1,5 +1,8 @@
 body {
-  margin: 0;
+  margin: 20px;
   padding: 0;
-  font-family: sans-serif;
+  font: 2rem bold sans-serif;
+  display: grid;
+  place-items: center;
+  text-align: center;
 }
